@@ -1,2 +1,2 @@
-# html_example
+# test_repo
 Пример пустой веб-страницы
